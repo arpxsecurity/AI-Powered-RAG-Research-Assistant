@@ -48,12 +48,19 @@ The system is designed with performance limits in mind so it can run on local ma
 ## Project Structure
 
 ├── api.py # FastAPI backend endpoints
+
 ├── ui.py # Streamlit user interface
+
 ├── index.py # Embedding & vector indexing logic
+
 ├── conversation.py # RAG-based conversation handling
+
 ├── arxiv_call.py # ArXiv API integration
+
 ├── config.py # Configuration and system limits
+
 ├── requirement.txt # Python dependencies
+
 └── README.md
 
 
@@ -119,4 +126,5 @@ Experimenting with RAG-based AI systems
 * Resume Description (Reference) :
 
 AI Powered RAG Research Assistant | Self Project (Nov 2025)
+
 Built a Retrieval-Augmented Generation based research assistant that retrieves, processes, and enables semantic querying of scientific papers from ArXiv using FastAPI, Streamlit, LangChain, and ChromaDB.
