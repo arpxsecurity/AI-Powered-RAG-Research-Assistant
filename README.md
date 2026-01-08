@@ -78,7 +78,7 @@ This ensures responses are based on actual research papers, not hallucinations.
 ## Setup Instructions
 
 ### Step 1: Clone the repository
-git clone https://github.com/arpxsecurity//AI-Powered-RAG-Application.git
+git clone https://github.com/arpxsecurity/AI-Powered-RAG-Research-Assistant.git
 cd AI-Powered-RAG-Application
 
 Step 2: Install dependencies
@@ -122,4 +122,5 @@ Experimenting with RAG-based AI systems
 AI Powered RAG Research Assistant | Self Project (Nov 2025)
 
 Built a Retrieval-Augmented Generation based research assistant that retrieves, processes, and enables semantic querying of scientific papers from ArXiv using FastAPI, Streamlit, LangChain, and ChromaDB.
+
 
