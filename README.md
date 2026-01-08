@@ -1,5 +1,5 @@
 # AI Powered RAG Research Assistant
-<img width="1536" height="1024" alt="ChatGPT Image Jan 8, 2026, 12_39_16 PM" src="https://github.com/user-attachments/assets/d09f3aa0-8271-4733-8cad-b9d1ed0f675d" />
+<img width="1536" height="1024" alt="AI Powered RAG Research Assistant Banner" src="https://github.com/user-attachments/assets/21179c4f-08bf-429f-bac7-b392c397a408" />
 
 This project is an AI-powered Research Assistant built using a Retrieval-Augmented Generation (RAG) approach.  
 The goal of this application is to help users search, process, and interact with scientific research papers from the ArXiv repository using natural language queries.
@@ -127,6 +127,7 @@ Copy the Streamlit URL from the terminal and open it in your browser.
 ## Development Timeline
 
 - **Project Type:** Self-driven research project  
-- **Duration:** November 2025  
+- **Duration:** Aug - Nov 2025  
 - **Focus:** RAG-based research paper retrieval and semantic question answering using ArXiv data
+
 
