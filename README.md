@@ -119,16 +119,16 @@ Designed primarily for research assistance, not full paper generation
 
 * # Use Cases :
 
-Research paper exploration
-Academic literature review
-Understanding complex papers using natural language
-Experimenting with RAG-based AI systems
+- Research paper exploration
+- Academic literature review
+- Understanding complex papers using natural language
+- Experimenting with RAG-based AI systems
 
 * # Resume Description (Reference) :
 
 AI Powered RAG Research Assistant | Self Project (Nov 2025)
-
 Built a Retrieval-Augmented Generation based research assistant that retrieves, processes, and enables semantic querying of scientific papers from ArXiv using FastAPI, Streamlit, LangChain, and ChromaDB.
+
 
 
 
