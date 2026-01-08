@@ -124,11 +124,8 @@ Copy the Streamlit URL from the terminal and open it in your browser.
 - Understanding complex papers using natural language
 - Experimenting with RAG-based AI systems
 
-# Resume Description (Reference) :
+## Development Timeline
 
-AI Powered RAG Research Assistant | Self Project (Nov 2025)
-Built a Retrieval-Augmented Generation based research assistant that retrieves, processes, and enables semantic querying of scientific papers from ArXiv using FastAPI, Streamlit, LangChain, and ChromaDB.
-
-
-
-
+- **Project Type:** Self-driven research project  
+- **Time Line:** November 2025  
+- **Focus:** RAG-based research paper retrieval and semantic question answering using ArXiv data
