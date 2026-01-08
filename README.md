@@ -87,7 +87,7 @@ This ensures responses are based on actual research papers, not hallucinations.
 ### Step 1: Clone the repository
 git clone https://github.com/arpxsecurity/AI-Powered-RAG-Research-Assistant.git
 
-cd AI-Powered-RAG-Application
+cd AI-Powered-RAG-Research-Assistant
 
 Step 2: Install dependencies
 
@@ -130,6 +130,7 @@ Copy the Streamlit URL from the terminal and open it in your browser.
 - **Project Type:** Self-driven research project  
 - **Duration:** Aug - Nov 2025  
 - **Focus:** RAG-based research paper retrieval and semantic question answering using ArXiv data
+
 
 
 
