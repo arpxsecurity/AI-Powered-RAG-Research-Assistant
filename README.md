@@ -19,6 +19,7 @@ This project automates:
 
 Unlike many constrained demo systems, this application is not strictly limited by hardware.
 It is designed to scale based on the available system resources and configuration, allowing it to run efficiently on local machines, high-performance systems, or cloud environments with adjustable limits.
+
 ---
 
 ## Core Functionality
@@ -158,3 +159,4 @@ Copy the Streamlit URL from the terminal and open it in your browser.
 - **Project Type:** Self-driven research project  
 - **Duration:** Aug - Nov 2025  
 - **Focus:** RAG-based research paper retrieval and semantic question answering using ArXiv data
+
